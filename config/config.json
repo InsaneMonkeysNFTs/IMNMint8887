@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x282Af980C9E93D82d532E3868c4614f493583C2F",
+  "SCAN_LINK": "https://etherscan.io/address/0x282af980c9e93d82d532e3868c4614f493583c2f",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Insane Monkeys NFTs",
+  "SYMBOL": "IMN",
+  "MAX_SUPPLY": 8887,
+  "WEI_COST": 16500000000000000,
+  "DISPLAY_COST": 0.0165,
+  "GAS_LIMIT": 203670,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/insane-monkeys-nfts",
+  "SHOW_BACKGROUND": true
+}
